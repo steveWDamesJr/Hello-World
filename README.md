@@ -1,18 +1,15 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
-> One paragraph statement about the project.
+> First Module project to master the tools necessary to complete industry standard development projects using best-practices and tools.
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML / CSS
 
 ## Live Demo
 
@@ -27,13 +24,11 @@ Additional description about the project and its features.
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Prerequisites - Text editor | Git and Github setup
 
-### Setup
+### Setup - clone repository and open with text editor
 
-### Install
-
-### Usage
+### Usage - View Hello World
 
 ### Run tests
 
@@ -43,17 +38,12 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Steve W Dames Jr**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/steveWDamesJr)
+- Twitter: [@twitterhandle](https://twitter.com/Steve88312331)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/steve-w-dames-jr/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
